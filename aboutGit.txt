@@ -1,0 +1,9 @@
+Git...
+Git is a type of VCS (AKA Version Control Software). VCS tracks and manages changes to files over time. Also, Git is the most popular type of VCS.
+1. Features of Git
+  A. Allows user to revisit earlier versions of files
+  B. Different versions of files can be compared
+  C. Allows for changes to be undone
+  D. And much more
+2. GitHub
+  A. GitHub is code hosting platform for version control as well as collaboration. It lets you and others work on projects together from anywhere.
